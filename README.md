@@ -21,9 +21,9 @@ Directory containing images used in the website.
 
 ## CSS 
 # Media Queries:
--@media: Specifies a media query.
--screen: Specifies the type of media (e.g., screen).
--max-width: Sets the maximum width for a media query.
+- @media: Specifies a media query.
+- screen: Specifies the type of media (e.g., screen).
+- max-width: Sets the maximum width for a media query.
 - Font Properties.
 - display
 - flex flex-wrap justify-content
