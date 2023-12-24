@@ -15,23 +15,27 @@ Directory containing images used in the website.
 
 ## Features
 # html
--Navigation Bars.
--Main Section.
--Footer Section.
+- Navigation Bars.
+- Main Section.
+- Footer Section.
 
 ## CSS 
 # Media Queries:
 -@media: Specifies a media query.
 -screen: Specifies the type of media (e.g., screen).
 -max-width: Sets the maximum width for a media query.
-# Font Properties.
-# display flex flex-wrap justify-content margin gap background-color border padding
-# positions
-# hover and focus.
+- Font Properties.
+- display
+- flex flex-wrap justify-content
+- margin gap
+- background-color
+- border padding
+- positions
+- hover and focus.
 
 ## Tech Used
 
--HTML
--CSS
--Responsiveness
+- HTML
+- CSS
+- Responsiveness
 
